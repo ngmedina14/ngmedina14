@@ -4,7 +4,7 @@ Hi 👋 My name is Neil Medina
 Web Developer
 -------------
 
-I've been a professional web programmer for 3 years, and still learning. I have knowledge in different marketing strategies for an effective web development.
+I've been a professional web programmer for 5 years, and still learning. I have knowledge in different marketing strategies for an effective web development.
 
 *   🌍  I'm based in Philippines, Batangas City
 *   🖥️  See my portfolio at [Portfolio](http://ngmedina14.github.io/portfolio/)
